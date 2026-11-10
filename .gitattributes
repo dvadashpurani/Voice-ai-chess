@@ -1,0 +1,2 @@
+# The opening book is a pickle read as bytes: never convert its line endings
+openingTable.txt -text
